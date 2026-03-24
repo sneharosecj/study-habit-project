@@ -1,0 +1,9 @@
+date,study_duration,study_time,subject,distraction_level,quiz_score,predicted_cluster
+2024-01-01,60,Morning,Math,Low,82,1
+2026-03-06,60,Morning,mathematics,Low,75,2
+2026-03-07,60,Morning,cs,High,75,2
+2026-03-07,60,Morning,math,,75,2
+2026-03-07,60,Morning,cs,Medium,75,2
+2026-03-07,60,Morning,,,75,2
+2026-03-07,60,Morning,,,75,0
+2026-03-07,60,Morning,,None,75,0
